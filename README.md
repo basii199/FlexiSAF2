@@ -6,4 +6,4 @@
 6. Pushed commits to remote repository
 7. Created upstream for local branch
 8. Commited and reverted the 'greeting' commit
-9. 
+9. Made changes in remote repository and pulled those changes into my computer.
