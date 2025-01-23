@@ -7,3 +7,4 @@
 7. Created upstream for local branch
 8. Commited and reverted the 'greeting' commit
 9. Made changes in remote repository and pulled those changes into my computer.
+10. Renamed 'local' branch to 'new-local'
